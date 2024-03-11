@@ -1,4 +1,4 @@
-Prosjektet går ut på å lage en Smart City løsning på liten skala. Vi har satt det 
+Dette IoT-prosjektet går ut på å lage en Smart City løsning på liten skala. Vi har satt det 
 sammen ved å dele prosjektet opp i ulike moduler. Vi benyttet oss av en Zumo32U4 
 belterobot. Zumo’en blir programmert gjennom Arduino-IDE til å utføre en rekke 
 oppgaver. Den har også mulighet til kommunikasjon gjennom en ESP-32 som er 
